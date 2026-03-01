@@ -7,11 +7,6 @@ AI & Data Engineer | Founder building SaaS platforms and machine learning system
 • SaaS platforms  
 • Data pipelines  
 
-## Projects
-• RentPad – AI property management platform  
-• Automotive incentive forecasting ML model  
-• Healthcare supply chain risk prediction system  
-
 Most production code is private due to NDA work.
 
 Portfolio: austinknapp.com  

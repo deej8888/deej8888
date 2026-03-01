@@ -1,6 +1,8 @@
 # Austin Knapp
 
-AI & Data Engineer | Founder building SaaS platforms and machine learning systems.
+AI & Data Engineer | Founder 
+
+Building SaaS platforms and machine learning systems.
 
 ## Current Focus
 • AI automation  

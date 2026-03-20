@@ -11,3 +11,5 @@ Most production code is private due to NDA agreements.
 
 Portfolio: austinknapp.com  
 LinkedIn: linkedin.com/in/austinknapp15
+
+Open to work! Message me on LinkedIn

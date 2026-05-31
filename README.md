@@ -1,5 +1,7 @@
 # Austin Knapp
 
+W2 Coding on Private Github Company Profile
+
 AI, Automations, Systems & Data Engineer | Founder 
 
 Building SaaS platforms and machine learning systems.
